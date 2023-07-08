@@ -1,0 +1,41 @@
+body{
+background-color: gray;
+display: flex;
+
+flex-direction: column;
+align-items: center;
+height: 1000px;
+
+
+}
+#principal{
+    display: flex;
+    flex-direction: column;
+    /*background-color: aliceblue;*/
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  
+    
+}
+
+#entrada{
+    font-size: 25px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    
+
+
+
+}
+
+button{
+    font-size: 25px;
+    border-radius: 5px;
+    border: none;
+    font-family:monospace
+
+
+}
+
